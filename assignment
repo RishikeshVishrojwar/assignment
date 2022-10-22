@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    },
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python"
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": "# My Jupyter Notebook on IBM Watson Studio\n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "**Rishikesh Vishrojwar**\nMy occupation: Student",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "*Data science seemed interesting so I just wanted to explore into it*",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "### my code genrates a random number between a range",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "from random import randint\nrandom_number=randint(0,9)\nprint(random_number)",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": "***\n\nBulleted list of some fruits\n* apple\n* banana\n* cherry\n\nNumbered list of vegetables\n1. Tomato\n2. Eggplant\n3. Potato\n\n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
